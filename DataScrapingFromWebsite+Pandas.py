@@ -49,4 +49,4 @@ for row in column_data[1:]:
 df
 
 df.to_csv(r"C:\Users\USER\Desktop\New folder (2)\csv files\Companies.csv", index = False)
-#The csv will be created in the folder, can then be converted to xlsx file
+#The csv will be created in the folder, it can then be converted to other file type, like: xlsx etc
